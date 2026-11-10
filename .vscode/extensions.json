@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-toolsai.jupyter",
+    "mtxr.sqltools",
+    "innoverio.vscode-dbt-power-user",
+    "eamodio.gitlens",
+    "ms-azuretools.vscode-docker",
+    "charliermarsh.ruff"
+  ]
+}
